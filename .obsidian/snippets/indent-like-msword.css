@@ -1,0 +1,4 @@
+.markdown-source-view.is-live-preview .cm-line:not(.HyperMD-header):not(.HyperMD-list-line) {
+  text-indent: 1.5em;
+}
+

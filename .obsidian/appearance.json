@@ -1,0 +1,19 @@
+{
+  "textFontFamily": "Inter 18pt 18pt",
+  "baseFontSize": 18,
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "accentColor": "",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "file-exeplorer-styling-rainbow-folder",
+    "mermaid",
+    "multi-column",
+    "numbering",
+    "indent-like-msword",
+    "kanban-bg-color",
+    "mermaid-padding",
+    "numbering-outline",
+    "rainbow-explorer"
+  ]
+}

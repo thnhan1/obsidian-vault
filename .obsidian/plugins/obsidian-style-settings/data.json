@@ -1,0 +1,11 @@
+{
+  "minimal-style@@row-lines": true,
+  "minimal-style@@col-lines": true,
+  "minimal-style@@table-lines": true,
+  "minimal-style@@row-alt": true,
+  "minimal-style@@table-numbers": true,
+  "minimal-style@@p-spacing": "0.5em",
+  "minimal-style@@heading-spacing": "0.5em",
+  "minimal-style@@image-muted": 1,
+  "minimal-style@@image-radius": 8
+}

@@ -1,0 +1,22 @@
+{
+  "spellcheck": false,
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "Attachments",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "References",
+  "userIgnoreFilters": [
+    "Daily/",
+    "Attachments/",
+    "Templates/",
+    "Excalidraw/",
+    "Notes/"
+  ],
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

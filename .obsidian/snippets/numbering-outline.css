@@ -1,0 +1,18 @@
+.workspace-leaf-content[data-type="outline"] {
+  counter-reset: item;
+}
+
+.workspace-leaf-content[data-type="outline"] .tree-item {
+  counter-increment: item;
+}
+
+.workspace-leaf-content[data-type="outline"] .tree-item-children {
+  counter-reset: item;
+}
+
+.workspace-leaf-content[data-type="outline"] .tree-item-inner::before {
+  content: counters(item, ".") ". " !important;
+  color: var(--text-muted);     /* custom color. i like red */
+  font-weight: 500;           
+  margin-right: 4px;            /* spacing with text */
+}
